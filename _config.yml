@@ -3,7 +3,7 @@ description: Writings on software, engineering, and notes.
 url: "https://jnguyenvt0104.github.io"
 baseurl: ""
 author:
-  name: Your Name
+  name: Jason Nguyen
 
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
