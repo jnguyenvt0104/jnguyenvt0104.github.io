@@ -8,11 +8,17 @@ permalink: /about/
 
 <p class="term-line"><span class="prompt">$</span> whoami</p>
 
-I'm **Jason Nguyen**, a Test Automation Engineer (SDET) in Lawrenceville, Georgia, with 9 years of experience across UI, API, mobile, and embedded/hardware testing.
+I'm **Jason Nguyen**, a Software Engineer in Test in Lawrenceville, Georgia, with 9 years of experience across UI, API, mobile, and embedded/hardware testing.
 
-Currently **Staff QA Engineer at Wilcore Technologies**, building Playwright automation with GitHub Actions CI/CD for high-stakes healthcare systems — PDF workflows, API integrations, form submissions — in compliance-heavy federal environments.
+Currently **Software Engineer in Test at BlackCloak** (Apr 2026 – present), where I designed the architecture of the company's test automation platform — one WebdriverIO + Appium framework across iOS, Android, the web admin panel, and backend services, now holding 200+ specs. Also:
 
-Previously **Senior SDET at ActiveCampaign**, where I designed a scalable Playwright framework on GitLab CI that cut manual regression from days to 2 hours and grew coverage from 0% to 92%.
+- Deterministic E2E tests for non-deterministic AI browser agents (Skyvern), pairing a controlled test site with API-level checks of workflow status, webhooks, and real removal outcomes.
+- Risk-driven testing that maps each code change to the tests covering it, so every release gets targeted feedback instead of a full regression run.
+- AI-assisted failure triage sorting CI failures into flaky / environment / real defect, each matched to its Jira ticket.
+
+Previously **Staff QA Engineer at Wilcore Technologies** (Apr 2025 – Mar 2026), building Playwright automation with GitHub Actions CI/CD for VA.gov — PDF workflows, API integrations, and form submissions supporting veterans' benefits applications — and leading E2E QA for VA form modernization with zero-downtime backend migrations.
+
+Before that, **Senior SDET at ActiveCampaign**, where I designed a scalable Playwright framework on GitLab CI that cut manual regression from days to 2 hours and grew coverage from 0% to 92%.
 
 ## Background
 
@@ -24,7 +30,7 @@ B.S. in Computer Science, Portland State University.
 
 ## Toolkit
 
-JavaScript · Java · C# · Python · SQL · Playwright · Cypress · Selenium · Appium · Node.js · Docker · Kubernetes · AWS · Azure · JMeter · DataDog
+JavaScript · Java · C# · Python · SQL · Playwright · WebdriverIO · Cypress · Selenium · Appium · Node.js · Docker · Kubernetes · AWS · Azure · JMeter · DataDog
 
 ## Side quests
 
