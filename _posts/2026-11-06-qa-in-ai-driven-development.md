@@ -16,6 +16,10 @@ The harder problem is code that works but does the wrong thing.
 
 That is requirement drift. The spec said one thing, the prompt said something close to it, the agent interpreted it a third way, and three iterations later the code no longer matches what the user actually asked for. No test fails, because the tests were written from the same drifted understanding as the code.
 
+In my experience on a fast-moving team, requirements do not stay still after the initial phase. They change frequently midway, after the first requirement is agreed, after the spec is written, after work has already started. The spec drifts, the code follows the new direction, and the tests are left pointing at the old one. That is how drift happens in practice, not all at once, but a little at a time while everyone is moving fast.
+
+Drift also comes from the other side. In microservices, a service you depend on can change without its spec being updated. Nothing changed in your repo, so your own tests still pass. But the real behavior between the services has changed, and no one updated the spec to say so. That is exactly the kind of break that only shows up end to end, when the services actually talk to each other.
+
 Missing requirements are the same problem in the other direction. The requirement was never written down. It lived in a Slack thread, in a past decision, in an assumption about how two systems should work together. The AI did not miss it because it is careless. It missed it because it was never in the input.
 
 When a requirement changes, the test cases need to change at the same time. They are one change, not two. If the code is updated and the tests are left alone, the tests stop describing what the product should do. A passing test can then lie, and a failing test can block code that is actually correct.
