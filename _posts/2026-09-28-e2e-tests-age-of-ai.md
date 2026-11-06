@@ -2,7 +2,6 @@
 layout: post
 title: "Why E2E Tests Matter More in the Age of AI"
 date: 2026-09-28
-draft: true
 tags: ["testing", "e2e", "ai", "llm", "quality-engineering"]
 summary: "Unit and integration tests are easy to generate now. E2E is where the real value is, because LLM-generated code breaks at the seams."
 ---
