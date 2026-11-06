@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "In AI-Driven Development, QA Is Not About Finding Bugs"
+title: "In AI-Driven Development, QA Is Not Only About Finding Bugs"
 date: 2026-11-06
 tags: ["testing", "qa", "ai", "llm", "requirements", "e2e", "quality-engineering"]
 summary: "In AI-driven development, QA is not mainly about finding obvious bugs. It is about catching requirement drift and missing requirements."
