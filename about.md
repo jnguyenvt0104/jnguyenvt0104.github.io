@@ -8,7 +8,7 @@ permalink: /about/
 
 <p class="term-line"><span class="prompt">$</span> whoami</p>
 
-I'm **Jason Nguyen**, a Software Engineer in Test in Lawrenceville, Georgia, with 9 years of experience across UI, API, mobile, and embedded/hardware testing.
+I'm **Jason Nguyen**, a Software Engineer in Test in Lawrenceville, Georgia, with 10+ years of experience across UI, API, mobile, and embedded/hardware testing.
 
 Currently **Software Engineer in Test at BlackCloak** (Apr 2026 – present), where I designed the architecture of the company's test automation platform — one WebdriverIO + Appium framework across iOS, Android, the web admin panel, and backend services, now holding 200+ specs. Also:
 
