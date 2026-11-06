@@ -39,4 +39,4 @@ AI-powered automation: RAG pipelines, MCP servers, and multi-agent systems.
 ## Contact
 
 - GitHub: [jnguyenvt0104](https://github.com/jnguyenvt0104)
-- LinkedIn: [huy-nguyen](https://www.linkedin.com/in/huy-nguyen-18a1b257/)
+- LinkedIn: [jason-nguyen](https://www.linkedin.com/in/jason-nguyen-18a1b257/)

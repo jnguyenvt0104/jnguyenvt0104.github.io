@@ -5,7 +5,7 @@ title: Posts
 
 # Posts
 
-I'm Jason Nguyen, a Software Engineer in Test at BlackCloak. This is my learning journal on software QA, test automation, and AI-assisted testing. [About me](/about/) · [LinkedIn](https://www.linkedin.com/in/huy-nguyen-18a1b257/)
+I'm Jason Nguyen, a Software Engineer in Test at BlackCloak. This is my learning journal on software QA, test automation, and AI-assisted testing. [About me](/about/) · [LinkedIn](https://www.linkedin.com/in/jason-nguyen-18a1b257/)
 
 <p class="term-line"><span class="prompt">$</span> query --all --sort=date &nbsp;// {{ site.posts.size }} entr{% if site.posts.size == 1 %}y{% else %}ies{% endif %} indexed</p>
 
